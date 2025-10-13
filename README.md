@@ -8,7 +8,7 @@
 ### 🧠 What I'm Learning
 - Backend development with **Python (Flask, FastAPI, SQLite, SQLAlchemy)**
 - Frontend basics with **HTML, CSS, and JavaScript**
-- Cybersecurity fundamentals and ethical hacking (using **Kali Linux user btw 🙂**)
+- Cybersecurity fundamentals and ethical hacking (**Kali Linux user btw 🙂**)
 - Object-Oriented Programming with **Python** and **C++**
 - Version control and collaboration with **Git & GitHub**
 - Developer tools: **Docker**, **Postman**, and more as I explore
