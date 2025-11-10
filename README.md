@@ -45,4 +45,5 @@
 
 ---
 
-✨ _“Code. Learn. Break. Fix. Repeat.”_  
+✨ _“Code. Learn.”_  
+✨ _“Do hard things.”_  
