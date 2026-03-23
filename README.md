@@ -4,7 +4,7 @@
 
 I specialize in building secure backend systems and monitoring network environments. Having completed both the **ALX Backend Software Engineering** and **ALX Cybersecurity** programs, I enjoy the intersection of development and defense.
 
-[🌐 Visit my Personal Website](https://garisonmike.github.io)
+<!-- [🌐 Visit my Personal Website](https://garisonmike.) -->
 
 ---
 
@@ -38,9 +38,9 @@ I am currently running a **Home SOC Lab** to sharpen my defensive security skill
 
 ---
 
-### 💬 Let's Connect
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@soc_analyst_)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garisonmike006@gmail.com)
+<!-- ### 💬 Let's Connect
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:) -->
 
 ---
 
